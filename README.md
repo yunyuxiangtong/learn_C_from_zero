@@ -1,4 +1,4 @@
-# learn_C_from_zero
+//# learn_C_from_zero
 #include<stdio.h>
 int main()
 {
@@ -10,5 +10,6 @@ int main()
  
   Let’s see how far I can go! 💻");
 
-  return 0;
+  return 0;     //No segfaults(hopefully)
   }
+  
